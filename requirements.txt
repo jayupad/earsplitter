@@ -1,1 +1,8 @@
+torch
 torchaudio
+librosa 
+soundfile 
+numpy
+matplotlib 
+IPython
+PySoundFile
